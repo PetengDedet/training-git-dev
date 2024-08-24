@@ -4,6 +4,7 @@ add
 commit
 push
 
+ikhwan.post@gmail.com 
 
 fork dari pak ikhwan
 vina clone ke local git clone
