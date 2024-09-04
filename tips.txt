@@ -1,0 +1,16 @@
+buat file baru
+isi dengan teks,  terserah
+add
+commit
+push
+
+ikhwan.post@gmail.com 
+
+fork dari pak ikhwan
+vina clone ke local git clone
+edit
+add
+commit
+push
+
+pull request (PR) =>  minta repo nya orang yang kita clone buat diubah kayak punya kita, tergantung yang punya repo asal mau nerima requestnya apa nggak

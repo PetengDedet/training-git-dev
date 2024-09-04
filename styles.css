@@ -32,7 +32,7 @@ body {
 .profile-container {
     max-width: 800px;
     margin: 50px auto;
-    background-image: var(--background-december);
+    background-image: var(--background-aprilgit);
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: var(--border-radius);
